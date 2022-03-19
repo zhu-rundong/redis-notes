@@ -2,6 +2,7 @@
 
 除了用来保存数据库中的字符串值以外，SDS 还被作为缓冲区（Buffer）：AOF 模块中的 AOF 缓冲区，以及客户端状态中的输入缓冲区，都是由 SDS 实现。
 
-* ["2.1 SDS的定义"](siyuan://blocks/20220313144451-xgi3c7g)
-* ["2.2 SDS 与 C 字符串的区别"](siyuan://blocks/20220313150539-esoi6y2)
-* ["2.3 SDS API"](siyuan://blocks/20220316205659-tocd41f)
+- [2.1 SDS的定义](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter2/2.1.md)
+- [2.2 SDS 与 C 字符串的区别](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter2/2.2.md)
+- [2.3 SDS API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter2/2.3.md)
+
