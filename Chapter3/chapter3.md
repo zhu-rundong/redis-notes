@@ -6,5 +6,5 @@
 
  服务器本身使用链表来保存多个客户端的状态信息和构建客户端输出缓冲区（output buffer）。
 
-* ["3.1 链表和链表节点的实现"](siyuan://blocks/20220314205227-mwb5zvw)
-* ["3.2 链表和链表节点的API"](siyuan://blocks/20220314210615-ybn0vqy)
+* [3.1 链表和链表节点的实现]([redis-notes/3.1.md at main · zhu-rundong/redis-notes (github.com)](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter3/3.1.md))
+* [3.2 链表和链表节点的API]([redis-notes/3.1.md at main · zhu-rundong/redis-notes (github.com)](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter3/3.2.md))
