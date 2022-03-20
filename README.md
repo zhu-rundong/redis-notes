@@ -1,22 +1,9 @@
-《Redis 设计与实现》读书笔记
+**《Redis 设计与实现》读书笔记**
 
-<<<<<<< HEAD
 # 目录
 
 ## 第一部分
 
-=======
-------
-
-# 目录
-
-------
-
-## 第一部分
-
-------
-
->>>>>>> ece69e4 (add chapter2)
 ## [第2章  简单动态字符串](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter2/chapter2.md)
 
 - [2.1 SDS的定义](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter2/2.1.md)
