@@ -14,3 +14,12 @@
 
 * [3.1 链表和链表节点的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter3/3.1.md)
 * [3.2 链表和链表节点的API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter3/3.2.md)
+
+## [第4章 字典](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/chapter4.md)
+
+* [4.1 字典的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.1.md)
+* [4.2 哈希算法](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.2.md)
+* [4.3 解决键冲突](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.3.md)
+* [4.4 rehash](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.4.md)
+* [4.5 渐进式rehash](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.5.md)
+* [4.6 字典API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.6.md)
