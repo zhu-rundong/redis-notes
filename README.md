@@ -2,7 +2,7 @@
 
 # 目录
 
-## 第一部分
+## 第一部分 数据结构与对象
 
 ## [第2章  简单动态字符串](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter2/chapter2.md)
 
