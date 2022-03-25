@@ -8,5 +8,5 @@
 
 **本章只对 Redis 的跳跃表实现进行介绍，跳跃表的数据结构相关信息可参考：**["跳表"](siyuan://blocks/20220317211054-7mqjldi)
 
-* ["5.1 跳跃表的实现"](siyuan://blocks/20220317202155-4ib6ct2)
-* ["5.2 跳跃表API"](siyuan://blocks/20220317202152-3b744d7)
+* [5.1 跳跃表的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/5.1.md)
+* [5.2 跳跃表API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/5.2.md)
