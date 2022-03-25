@@ -23,3 +23,7 @@
 * [4.4 rehash](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.4.md)
 * [4.5 渐进式rehash](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.5.md)
 * [4.6 字典API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter4/4.6.md)
+
+## [第5章 跳跃表](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/chapter5.md)
+* [5.1 跳跃表的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/5.1.md)
+* [5.2 跳跃表API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/5.2.md)
