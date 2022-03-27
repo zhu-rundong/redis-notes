@@ -27,3 +27,9 @@
 ## [第5章 跳跃表](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/chapter5.md)
 * [5.1 跳跃表的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/5.1.md)
 * [5.2 跳跃表API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter5/5.2.md)
+
+[第6章 整数集合](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/chapter6.md)
+
+* [6.1 整数集合的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/6.1.md)
+* [6.2-6.4 升级&升级的好处&降级](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/6.2-6.4.md)
+* [6.5 整数集合API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/6.5.md)
