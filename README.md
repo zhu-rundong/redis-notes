@@ -1,4 +1,4 @@
-**《Redis 设计与实现》读书笔记**
+**《Redis 设计与实现》学习笔记**
 
 # 目录
 
@@ -33,3 +33,10 @@
 * [6.1 整数集合的实现](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/6.1.md)
 * [6.2-6.4 升级&升级的好处&降级](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/6.2-6.4.md)
 * [6.5 整数集合API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter6/6.5.md)
+
+## [第7章 压缩列表](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/chapter7.md)
+
+* [7.1 压缩列表的构成](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.1.md)
+* [7.2 压缩列表节点的构成](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.2.md)
+* [7.3 连锁更新](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.3.md)
+* [7.4 压缩列表API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.4.md)
