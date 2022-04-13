@@ -40,3 +40,16 @@
 * [7.2 压缩列表节点的构成](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.2.md)
 * [7.3 连锁更新](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.3.md)
 * [7.4 压缩列表API](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter7/7.4.md)
+
+## [第8章 对象](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/chapter8.md)
+
+- [8.1 对象的类型和编码](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.1.md)
+- [8.2 字符串对象](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.2.md)
+- [8.3 列表对象](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.3.md)
+- [8.4 哈希对象](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.4.md)
+- [8.5 集合对象](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.5.md)
+- [8.6 有序集合对象](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.6.md)
+- [8.7 类型检查与命令多态](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.7.md)
+- [8.8 内存回收](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.8.md)
+- [8.9 对象共享](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.9.md)
+- [8.10 对象的空转时长](https://github.com/zhu-rundong/redis-notes/blob/main/Chapter8/8.10.md)
